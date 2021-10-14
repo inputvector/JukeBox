@@ -22,4 +22,5 @@ Our goal is to design a Jukebox that allows customers to select songs they want 
 
 # Files
 
-Use Case, Class & Sequence Diagrams : 
+Use Case, Class & Sequence Diagrams : [pdf file](https://github.com/inputvector/JukeBox/blob/main/Jukebox%20Documentation.pdf)
+java files : 
